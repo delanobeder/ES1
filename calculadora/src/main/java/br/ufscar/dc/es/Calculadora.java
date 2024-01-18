@@ -3,7 +3,7 @@ package br.ufscar.dc.es;
 public class Calculadora {
 
 	public int soma(int x, int y) {
-		return x + y;
+		return 0;
 	}
 
 	public int subtrai(int x, int y) {
